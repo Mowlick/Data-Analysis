@@ -1,9 +1,4 @@
-Here’s the revised and corrected version of your `README.md` — rewritten for clarity, accuracy, and consistency in tone and detail across all sections:
-
----
-
-```markdown
-# 📊 Data Analysis Portfolio
+## 📊 Data Analysis Portfolio
 
 This repository contains a collection of data analysis and machine learning projects developed as part of academic coursework and capstone experiences. The focus ranges from real-world industry problem-solving to predictive modeling using structured datasets.
 
