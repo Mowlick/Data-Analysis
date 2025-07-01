@@ -87,4 +87,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## 🙋‍♂️ Author
 
 **Your Name**
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername) 
+[GitHub](https://github.com/Mowlick) | [LinkedIn](https://www.linkedin.com/in/mowlick-armstrong-2b7946301/) 
