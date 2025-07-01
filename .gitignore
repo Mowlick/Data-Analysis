@@ -1,0 +1,19 @@
+# Ignore datasets folder
+datasets/
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
