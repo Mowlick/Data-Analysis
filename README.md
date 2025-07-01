@@ -80,7 +80,11 @@ pip install -r requirements.txt
 
 ## 📜 License
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under a **Custom "All Rights Reserved" License**.  
+Use, reproduction, or distribution of any part of this work is **strictly prohibited** without the author's **explicit written permission**.  
+See the [LICENSE](LICENSE) file for full details.
+
+For usage inquiries, contact: [mowlick2006@gmail.com]
 
 ---
 
